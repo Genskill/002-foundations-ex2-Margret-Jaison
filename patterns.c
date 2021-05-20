@@ -9,7 +9,7 @@ int main(void)
     
     switch(choice)
      {
-       case 1:for(int i=1;i<=n;i++)
+       case 1: for(int i=1;i<=n;i++)
               {
                 for(int j=n;j>=i;j--)
                    {
